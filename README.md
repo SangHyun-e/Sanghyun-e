@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA500&center=true&width=550&lines=Growth+Backend+Developer;Eager+to+gain+valuable+experience!;Striving+for+growth+and+innovation!;." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA500&center=true&width=550&lines=Backend+Developer+|+Always+Learning;Eager+to+gain+valuable+experience!;Striving+for+growth+and+innovation!;." alt="Typing SVG" />
 
   <h3>🚀 Passionate Backend Developer Seeking Exciting Opportunities</h3>
   <p>"Eager to gain valuable experience in a great company and contribute to impactful projects."</p>
