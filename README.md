@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA500&center=true&width=550&lines=Backend+Developer+|+Always+Learning;Eager+to+gain+valuable+experience!;Striving+for+growth+and+innovation!;." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA500&center=true&width=550&lines=Backend+Developer+|+Always+Learning;Eager+to+gain+valuable+experience!;Striving+for+growth+and+innovation!" alt="Typing SVG" />
 
   <h3>🚀 Passionate Backend Developer Seeking Exciting Opportunities</h3>
   <p>"Eager to gain valuable experience in a great company and contribute to impactful projects."</p>
@@ -11,7 +11,7 @@
 
 ### 🐹 Welcome to My GitHub! 🐹
 
-<a href="https://github.com/SangHyun-e"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangHyun-e&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a> 
+<a href="https://github.com/SangHyun-e"><img src="https://hits.sh/github.com/SangHyun-e.svg?style=flat-square&label=visitors&color=000000&labelColor=000000&logo=github"/></a> 
 <a href="https://1000sang-dev.tistory.com/"><img src="https://img.shields.io/badge/TISTORY BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 ---
@@ -88,7 +88,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=SangHyun-e&show_icons=true&theme=transparent&hide=" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SangHyun-e&theme=dark"/>
+      <img src="https://streak-stats.demolab.com/?user=SangHyun-e&theme=transparent"/>
     </td>
   </tr>
 </table>
