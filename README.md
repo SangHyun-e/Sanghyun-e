@@ -12,13 +12,6 @@ API 설계부터 Docker · GitHub Actions를 이용한 AWS 배포까지, 서비�
 
 </div>
 
-## 🚀 Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| **[RoutePick](https://routepick-web-fe.vercel.app)**<br/>[BE](https://github.com/SangHyun-e/routepick-be) · [FE](https://github.com/SangHyun-e/routepick-web-fe) | 커뮤니티 기반 드라이브 코스 추천 서비스<br/>코스 추천 · 게시판 · 알림 · 이미지 업로드 · 관리자 대시보드 | Spring Boot · JPA · QueryDSL · Redis · S3<br/>Next.js · TypeScript · Tailwind CSS<br/>Docker · GitHub Actions · EC2 |
-| **TagUp**<br/>[BE](https://github.com/SangHyun-e/tagup-backend) · [FE](https://github.com/SangHyun-e/tagup-frontend) | KBO 응원 채팅 & 배팅 앱 | Spring Boot · Security · JWT · QueryDSL<br/>React Native · Expo · Zustand<br/>Docker · GitHub Actions · Nginx · EC2 |
-
 ## 🛠 Tech Stack
 
 | Category | Stack |
